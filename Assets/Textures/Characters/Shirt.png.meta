@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 71f9132317ebaa942a7f89e7a3530d06
+guid: a232864021ecdb142bd171d939f9bf7d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 800
+  spritePixelsToUnits: 1600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Faces_0
+      name: Shirt_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afa45adbbf4503040bb081dcf628f05f
-      internalID: -1929982674
+      spriteID: 72af740b150ed1b42a2029a167186a9c
+      internalID: -1443612938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Faces_1
+      name: Shirt_1
       rect:
         serializedVersion: 2
         x: 800
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fde61eb447f0fe40b87cf9efe3c17f1
-      internalID: 281690037
+      spriteID: b28dcbc1ca865f5469502bb6ce8c991a
+      internalID: -681299439
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Faces_2
+      name: Shirt_2
       rect:
         serializedVersion: 2
         x: 1600
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e30cc91ea1b6434bbbb7d9ff5d7be2e
-      internalID: -604941571
+      spriteID: 861cf90d34c090541ba5fbed34417419
+      internalID: -274442267
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Faces_3
+      name: Shirt_3
       rect:
         serializedVersion: 2
         x: 2400
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a51ed2b8873080e49bb76cb6e0e4010f
-      internalID: -1038092015
+      spriteID: 49ee0bab94b100f40898afb79f06b8dd
+      internalID: -1782725076
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Faces_0: -1929982674
-      Faces_1: 281690037
-      Faces_2: -604941571
-      Faces_3: -1038092015
+      Shirt_0: -1443612938
+      Shirt_1: -681299439
+      Shirt_2: -274442267
+      Shirt_3: -1782725076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

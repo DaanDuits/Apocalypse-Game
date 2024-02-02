@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a232864021ecdb142bd171d939f9bf7d
+guid: a048305e3c3ca354a8e9ccd9087d98d2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 800
+  spritePixelsToUnits: 1600
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Shirt_0
+      name: Haircuts_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 72af740b150ed1b42a2029a167186a9c
-      internalID: -1443612938
+      spriteID: c26e14d52419cc64aaed2890e0c0958e
+      internalID: 209374290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shirt_1
+      name: Haircuts_1
       rect:
         serializedVersion: 2
         x: 800
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b28dcbc1ca865f5469502bb6ce8c991a
-      internalID: -681299439
+      spriteID: 61833049f29905f4eb1e1b47743dfad8
+      internalID: 900312480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shirt_2
+      name: Haircuts_2
       rect:
         serializedVersion: 2
         x: 1600
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 861cf90d34c090541ba5fbed34417419
-      internalID: -274442267
+      spriteID: 1069cb45143dbd248b24a3e74373b3e8
+      internalID: 1356317856
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Shirt_3
+      name: Haircuts_3
       rect:
         serializedVersion: 2
         x: 2400
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49ee0bab94b100f40898afb79f06b8dd
-      internalID: -1782725076
+      spriteID: d916d8486a200ed489df612f41c7eac9
+      internalID: 752825947
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Shirt_0: -1443612938
-      Shirt_1: -681299439
-      Shirt_2: -274442267
-      Shirt_3: -1782725076
+      Haircuts_0: 209374290
+      Haircuts_1: 900312480
+      Haircuts_2: 1356317856
+      Haircuts_3: 752825947
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
