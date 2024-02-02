@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a1a8616c45d31c1458c4876951bfc31c
+guid: a232864021ecdb142bd171d939f9bf7d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Eyes_0
+      name: Shirt_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4342ee20f52ca44aa036455925dec31
-      internalID: 1603451063
+      spriteID: 72af740b150ed1b42a2029a167186a9c
+      internalID: -1443612938
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eyes_1
+      name: Shirt_1
       rect:
         serializedVersion: 2
         x: 800
@@ -145,8 +145,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d553f5f61cef3d74fa313cdf12854257
-      internalID: 89107818
+      spriteID: b28dcbc1ca865f5469502bb6ce8c991a
+      internalID: -681299439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shirt_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861cf90d34c090541ba5fbed34417419
+      internalID: -274442267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shirt_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee0bab94b100f40898afb79f06b8dd
+      internalID: -1782725076
       vertices: []
       indices: 
       edges: []
@@ -162,8 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Eyes_0: 1603451063
-      Eyes_1: 89107818
+      Shirt_0: -1443612938
+      Shirt_1: -681299439
+      Shirt_2: -274442267
+      Shirt_3: -1782725076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

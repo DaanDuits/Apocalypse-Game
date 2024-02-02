@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a1a8616c45d31c1458c4876951bfc31c
+guid: a3fd72b5f929d3640a57a5fa292b5cf1
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Eyes_0
+      name: Body_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4342ee20f52ca44aa036455925dec31
-      internalID: 1603451063
+      spriteID: f99e285aab9fa1843957355a41884ff8
+      internalID: -370762406
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Eyes_1
+      name: Body_1
       rect:
         serializedVersion: 2
         x: 800
@@ -145,8 +145,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d553f5f61cef3d74fa313cdf12854257
-      internalID: 89107818
+      spriteID: ca23e80a052390f41ab97a160890cd2e
+      internalID: 1797511609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa93193335c80b41a128d5d71db9fcb
+      internalID: -1794958403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Body_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 800
+        height: 1600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b3644f2dc087459bb94b8ff39cb88
+      internalID: 205076305
       vertices: []
       indices: 
       edges: []
@@ -162,8 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Eyes_0: 1603451063
-      Eyes_1: 89107818
+      Body_0: -370762406
+      Body_1: 1797511609
+      Body_2: -1794958403
+      Body_3: 205076305
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
