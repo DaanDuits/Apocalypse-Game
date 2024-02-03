@@ -7,6 +7,7 @@ using UnityEngine;
 
 namespace Characters
 {
+    [RequireComponent(typeof(SpriteRenderer))]
     public class RotatebleObject : MonoBehaviour
     {
         private SpriteRenderer _spriteRenderer;

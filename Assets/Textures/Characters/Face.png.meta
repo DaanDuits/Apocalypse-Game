@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a048305e3c3ca354a8e9ccd9087d98d2
+guid: 71f9132317ebaa942a7f89e7a3530d06
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 1600
+  spritePixelsToUnits: 1200
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -110,7 +110,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Haircuts_0
+      name: Face_0
       rect:
         serializedVersion: 2
         x: 0
@@ -124,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c26e14d52419cc64aaed2890e0c0958e
-      internalID: 209374290
+      spriteID: a14ff2658a81b0549a820099ea695521
+      internalID: 455055985
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Haircuts_1
+      name: Face_1
       rect:
         serializedVersion: 2
         x: 800
@@ -145,14 +145,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61833049f29905f4eb1e1b47743dfad8
-      internalID: 900312480
+      spriteID: 3005c7311f8c3714abdee47f3ea7091c
+      internalID: -948799625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Haircuts_2
+      name: Face_2
       rect:
         serializedVersion: 2
         x: 1600
@@ -166,14 +166,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1069cb45143dbd248b24a3e74373b3e8
-      internalID: 1356317856
+      spriteID: 76bdede34ffe14f4a93e1fd9fd3d870d
+      internalID: -236529382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Haircuts_3
+      name: Face_3
       rect:
         serializedVersion: 2
         x: 2400
@@ -187,8 +187,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d916d8486a200ed489df612f41c7eac9
-      internalID: 752825947
+      spriteID: 005d7c6ac2ea81e44afc7064d3dc8569
+      internalID: 849006213
       vertices: []
       indices: 
       edges: []
@@ -204,10 +204,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Haircuts_0: 209374290
-      Haircuts_1: 900312480
-      Haircuts_2: 1356317856
-      Haircuts_3: 752825947
+      Face_0: 455055985
+      Face_1: -948799625
+      Face_2: -236529382
+      Face_3: 849006213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
