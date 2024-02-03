@@ -19,7 +19,7 @@ namespace Characters
 
         public CardinalDirections cardinalDirection;
 
-        private void Awake()
+        private void Start()
         {
             CharacterRotatebles = new List<RotatebleObject >();
             foreach (Transform child in transform)
