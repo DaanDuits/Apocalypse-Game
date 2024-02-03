@@ -370,6 +370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 313602457}
   - component: {fileID: 313602458}
+  - component: {fileID: 313602459}
   m_Layer: 0
   m_Name: Eyes
   m_TagString: Untagged
@@ -438,12 +439,24 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.5, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &313602459
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 313602456}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &544333271
 GameObject:
   m_ObjectHideFlags: 0
@@ -454,6 +467,7 @@ GameObject:
   m_Component:
   - component: {fileID: 544333272}
   - component: {fileID: 544333273}
+  - component: {fileID: 544333274}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -522,12 +536,24 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.5, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &544333274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 544333271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &730123204
 GameObject:
   m_ObjectHideFlags: 0
@@ -538,6 +564,7 @@ GameObject:
   m_Component:
   - component: {fileID: 730123205}
   - component: {fileID: 730123206}
+  - component: {fileID: 730123207}
   m_Layer: 0
   m_Name: Shirt
   m_TagString: Untagged
@@ -606,12 +633,24 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.5, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &730123207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 730123204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &861723766
 GameObject:
   m_ObjectHideFlags: 0
@@ -927,6 +966,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ee6337b2f7cbda0418f1e543f24d1381, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cardinalDirection: 2
 --- !u!1 &1197728515
 GameObject:
   m_ObjectHideFlags: 0
@@ -937,6 +977,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1197728516}
   - component: {fileID: 1197728517}
+  - component: {fileID: 1197728518}
   m_Layer: 0
   m_Name: Face
   m_TagString: Untagged
@@ -1005,12 +1046,24 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.5, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1197728518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1197728515}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1622583402
 GameObject:
   m_ObjectHideFlags: 0
@@ -1360,6 +1413,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2080542212}
   - component: {fileID: 2080542213}
+  - component: {fileID: 2080542214}
   m_Layer: 0
   m_Name: Haircut
   m_TagString: Untagged
@@ -1428,12 +1482,24 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.5, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2080542214
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2080542211}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
