@@ -11,6 +11,7 @@ namespace Tools.ObjectPooling
     {
         [SerializeField] private GameObject poolPrefab;
         [SerializeField] private int maxAmount = 50;
+        [SerializeField] private bool allowOverflow = true;
         [SerializeField] private int amountPerFrame = 5;
 
         private void Start()
@@ -32,8 +33,14 @@ namespace Tools.ObjectPooling
                 }
             }
 
-            StartCoroutine(InstantiateNewPrefabs());
-            RequestObject(position, rotation);
+            if (allowOverflow)
+            {
+                StartCoroutine(InstantiateNewPrefabs());
+                RequestObject(position, rotation);
+                return;
+            }
+
+            throw new ArgumentOutOfRangeException("All prefabs are in use!");
         }
 
         public void DestroyObject(GameObject objectToDestroy)
