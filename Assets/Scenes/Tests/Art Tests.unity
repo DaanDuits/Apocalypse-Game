@@ -457,6 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _sprites: []
 --- !u!1 &544333271
 GameObject:
   m_ObjectHideFlags: 0
@@ -554,6 +555,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _sprites: []
 --- !u!1 &730123204
 GameObject:
   m_ObjectHideFlags: 0
@@ -651,6 +653,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _sprites: []
 --- !u!1 &861723766
 GameObject:
   m_ObjectHideFlags: 0
@@ -1041,12 +1044,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 2
-  m_Sprite: {fileID: -1929982674, guid: 71f9132317ebaa942a7f89e7a3530d06, type: 3}
+  m_Sprite: {fileID: 455055985, guid: 71f9132317ebaa942a7f89e7a3530d06, type: 3}
   m_Color: {r: 0.9528302, g: 0.7158292, b: 0.5258544, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.5, y: 1}
+  m_Size: {x: 0.6666667, y: 1.3333334}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1064,6 +1067,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _sprites: []
 --- !u!1 &1622583402
 GameObject:
   m_ObjectHideFlags: 0
@@ -1477,12 +1481,12 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 3
-  m_Sprite: {fileID: 209374290, guid: a048305e3c3ca354a8e9ccd9087d98d2, type: 3}
+  m_Sprite: {fileID: -142256219, guid: a048305e3c3ca354a8e9ccd9087d98d2, type: 3}
   m_Color: {r: 0.7169812, g: 0.59195, b: 0.3009968, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.5, y: 1}
+  m_Size: {x: 0.6666667, y: 1.3333334}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1500,6 +1504,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2fb3567333842f40bb58851051f601c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _sprites: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
